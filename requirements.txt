@@ -1,0 +1,34 @@
+# Python package dependencies for whitelist email automation scripts
+# Python包依赖列表 - 白名单邮件自动化脚本
+
+# Core data processing libraries
+# 核心数据处理库
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Excel file handling
+# Excel文件处理
+openpyxl>=3.0.9
+
+# Chinese pinyin conversion
+# 中文拼音转换
+pypinyin>=0.44.0
+
+# Email functionality
+# 邮件功能
+# smtplib is part of Python standard library
+# getpass is part of Python standard library
+
+# File and system operations
+# 文件和系统操作
+# os, glob, shutil, sys, time, re are part of Python standard library
+
+# Command line argument parsing
+# 命令行参数解析
+# argparse is part of Python standard library
+
+# Copy operations
+# 复制操作
+# copy is part of Python standard library
+
+# Note: Most email and file operation libraries are part of Python's standard library 
